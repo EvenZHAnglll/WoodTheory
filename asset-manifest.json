@@ -1,13 +1,11 @@
 {
   "main.css": "static/css/main.484afbd6.css",
   "main.css.map": "static/css/main.484afbd6.css.map",
-  "main.js": "static/js/main.20811bc6.js",
-  "main.js.map": "static/js/main.20811bc6.js.map",
+  "main.js": "static/js/main.d7aadf5e.js",
+  "main.js.map": "static/js/main.d7aadf5e.js.map",
   "static\\media\\Cal1.jpg": "static/media/Cal1.21064bc5.jpg",
   "static\\media\\Cal2.jpg": "static/media/Cal2.4cfad78d.jpg",
   "static\\media\\Cal3.jpg": "static/media/Cal3.91399797.jpg",
-  "static\\media\\Che1.jpg": "static/media/Che1.7da16406.jpg",
-  "static\\media\\Che2.jpg": "static/media/Che2.b610115d.jpg",
   "static\\media\\Cup1.jpg": "static/media/Cup1.8ee873a3.jpg",
   "static\\media\\Cup2.jpg": "static/media/Cup2.e38cebdb.jpg",
   "static\\media\\Cut.jpg": "static/media/Cut.719f3f00.jpg",
@@ -21,5 +19,8 @@
   "static\\media\\ball.jpg": "static/media/ball.9b2b3a95.jpg",
   "static\\media\\card.jpg": "static/media/card.ba5881bc.jpg",
   "static\\media\\card2.jpg": "static/media/card2.af0c9f7e.jpg",
-  "static\\media\\logo.png": "static/media/logo.5021ab7c.png"
+  "static\\media\\logo.png": "static/media/logo.5021ab7c.png",
+  "static\\media\\rose.jpg": "static/media/rose.11af0513.jpg",
+  "static\\media\\rose2.jpg": "static/media/rose2.559bc5d7.jpg",
+  "static\\media\\rose3.png": "static/media/rose3.899d7deb.png"
 }
